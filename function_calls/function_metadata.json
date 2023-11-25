@@ -1,0 +1,96 @@
+[
+  {
+    "name": "get_trending_cryptos",
+    "description": "Fetches a list of trending cryptocurrencies from coingecko. Use the rersponse to engage with the user conversationally, you can remark on the names of the crypto tokens if they're strange or amusing.",
+    "parameters": {
+      "type": "object",
+      "properties": {}
+    }
+  },
+  {
+      "name": "get_crypto_data_with_indicators_binance",
+      "description": "Fetches various financial indicators and current data for a given list of cryptocurrencies using their ticker symbols to analyse and inform your user about the market conditions. Use this function one time for each query, regardless of the number of currencies that data is requested for. Use the information returned from this function to engage with the user conversationally on the subject matter. You shouldn't share all the data in one message. Do not use this function if the information is already available in the conversation history.",
+      "parameters": {
+          "type": "object",
+          "properties": {
+              "token_names": {
+                  "type": "array",
+                  "items": {
+                      "type": "string"
+                  },
+                  "description": "A list of symbols or tickers of the cryptocurrencies, for example bitcoin is BTC, Aptos is APT, Worldcoin is WLD"
+              }
+          },
+          "required": ["token_names"]
+      }
+  },
+  {
+    "name": "query_wolfram_alpha",
+    "description": "Use this function to query Wolfram Alpha for computational answers in areas like chemistry, physics, and geography. Execute complex mathematical calculations, convert units and dates, and solve formulas. Retrieve scientific, geographical, and historical data, as well as information on weather. It can now handle multiple queries at once, providing a batch of computational knowledge. Do not display any URLs if included in the response, this is very important.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "queries": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "A list of query strings to send to Wolfram Alpha. Ask it questions."
+        }
+      },
+      "required": ["queries"]
+    }
+  },
+  {
+    "name": "get_stock_info",
+    "description": "Fetches various types of financial information about given stocks using their ticker symbols. The available types of information include 'current_price', 'dividends', 'splits', 'company_info', 'financials', 'sustainability', and 'recommendations'. This function now accepts multiple tickers and provides a consolidated result.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "tickers": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "A list of ticker symbols of the stocks, for example, Apple is AAPL, Microsoft is MSFT."
+        },
+        "info_types": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "The types of information to fetch for each ticker. Options include 'current_price', 'dividends', 'splits', 'company_info', 'financials', 'sustainability', and 'recommendations'."
+        }
+      },
+      "required": ["tickers", "info_types"]
+    }
+  },
+  {
+      "name": "get_crypto_info_from_coinmarketcap",
+      "description": "Fetches market data, description, for a specified cryptocurrency from CoinMarketCap using its token symbol. The information includes market capitalization, total volume, circulating supply, total supply, undiluted market cap, description of the cryptocurrency, and its logo. You only need use from the response information you need to answer the user. The correct URL for Worldcoin is https://worldcoin.org/ ignore any result that differs.",
+      "parameters": {
+          "type": "object",
+          "properties": {
+              "token_symbol": {
+                  "type": "string",
+                  "description": "The symbol of the cryptocurrency on CoinMarketCap, e.g., 'BTC' for Bitcoin, 'ETH' for Ethereum, 'WLD' for Worldcoin, 'APT' for Aptos."
+              }
+          },
+          "required": ["token_symbol"]
+      }
+  },
+  {
+      "name": "get_crypto_info_from_coingecko",
+      "description": "Fetches additional details for a specified cryptocurrency from CoinGecko using its token ID. The information includes available exchanges, description of the cryptocurrency, and its platform details including chain and contract address. It's advised to use this function in conjunction with, and after calling the get_crypto_info_from_coinmarketcap function to obtain a more comprehensive set of data. should only use the major well known exchanges if the list is over eight long. The correct URL for Worldcoin is https://worldcoin.org/ ignore any result that differs.",
+      "parameters": {
+          "type": "object",
+          "properties": {
+              "token_id": {
+                  "type": "string",
+                  "description": "The identifier of the cryptocurrency on CoinGecko, e.g., 'aptos' for Aptos, 'bitcoin' for Bitcoin, 'ethereum' for Ethereum, and specifically 'worldcoin-wld' for Worldcoin is the api_id for that token."
+              }
+          },
+          "required": ["token_id"]
+      }
+  }
+]

@@ -1,0 +1,698 @@
+[2023-11-09 11:11:03,799] ERROR: Failed to load cog: cogs.helius. Error: Extension 'cogs.helius' raised an error: ModuleNotFoundError: No module named 'yfinance'
+[2023-11-09 11:11:03,799] ERROR: Failed to load cog: cogs.helius. Error: Extension 'cogs.helius' raised an error: ModuleNotFoundError: No module named 'yfinance'
+[2023-11-09 11:11:07,409] INFO: Logged in as HELIUS!
+[2023-11-09 11:11:07,409] INFO: Logged in as HELIUS!
+[2023-11-09 11:15:14,364] ERROR: Failed to load cog: cogs.helius. Error: Extension 'cogs.helius' raised an error: ModuleNotFoundError: No module named 'matplotlib'
+[2023-11-09 11:15:14,364] ERROR: Failed to load cog: cogs.helius. Error: Extension 'cogs.helius' raised an error: ModuleNotFoundError: No module named 'matplotlib'
+[2023-11-09 11:15:17,835] INFO: Logged in as HELIUS!
+[2023-11-09 11:15:17,835] INFO: Logged in as HELIUS!
+[2023-11-09 11:16:10,464] ERROR: Failed to load cog: cogs.helius. Error: Extension 'cogs.helius' raised an error: ModuleNotFoundError: No module named 'mplfinance'
+[2023-11-09 11:16:10,464] ERROR: Failed to load cog: cogs.helius. Error: Extension 'cogs.helius' raised an error: ModuleNotFoundError: No module named 'mplfinance'
+[2023-11-09 11:16:13,843] INFO: Logged in as HELIUS!
+[2023-11-09 11:16:13,843] INFO: Logged in as HELIUS!
+[2023-11-09 11:17:40,062] ERROR: Failed to load cog: cogs.helius. Error: Extension 'cogs.helius' raised an error: ModuleNotFoundError: No module named 'pandas_ta'
+[2023-11-09 11:17:40,062] ERROR: Failed to load cog: cogs.helius. Error: Extension 'cogs.helius' raised an error: ModuleNotFoundError: No module named 'pandas_ta'
+[2023-11-09 11:17:43,951] INFO: Logged in as HELIUS!
+[2023-11-09 11:17:43,951] INFO: Logged in as HELIUS!
+[2023-11-09 11:18:57,911] INFO: Loaded cog: cogs.helius
+[2023-11-09 11:18:57,911] INFO: Loaded cog: cogs.helius
+[2023-11-09 11:19:01,403] INFO: Logged in as HELIUS!
+[2023-11-09 11:19:01,403] INFO: Logged in as HELIUS!
+[2023-11-09 11:22:52,870] INFO: Loaded cog: cogs.helius
+[2023-11-09 11:22:52,870] INFO: Loaded cog: cogs.helius
+[2023-11-09 11:22:56,417] INFO: Logged in as HELIUS!
+[2023-11-09 11:22:56,417] INFO: Logged in as HELIUS!
+[2023-11-09 11:26:37,355] INFO: Loaded cog: cogs.helius
+[2023-11-09 11:26:37,355] INFO: Loaded cog: cogs.helius
+[2023-11-09 11:26:40,631] INFO: Logged in as HELIUS!
+[2023-11-09 11:26:40,631] INFO: Logged in as HELIUS!
+[2023-11-09 11:28:46,078] ERROR: Error while generating response: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+[2023-11-09 11:28:46,078] ERROR: Error while generating response: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+[2023-11-09 11:34:52,277] INFO: Loaded cog: cogs.helius
+[2023-11-09 11:34:52,277] INFO: Loaded cog: cogs.helius
+[2023-11-09 11:34:55,765] INFO: Logged in as HELIUS!
+[2023-11-09 11:34:55,765] INFO: Logged in as HELIUS!
+[2023-11-09 11:35:24,902] ERROR: Error while generating response: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+[2023-11-09 11:35:24,902] ERROR: Error while generating response: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+[2023-11-09 11:37:02,636] INFO: Loaded cog: cogs.helius
+[2023-11-09 11:37:02,636] INFO: Loaded cog: cogs.helius
+[2023-11-09 11:37:05,972] INFO: Logged in as HELIUS!
+[2023-11-09 11:37:05,972] INFO: Logged in as HELIUS!
+[2023-11-09 12:02:56,475] INFO: Loaded cog: cogs.helius
+[2023-11-09 12:02:56,475] INFO: Loaded cog: cogs.helius
+[2023-11-09 12:03:00,286] INFO: Logged in as HELIUS!
+[2023-11-09 12:03:00,286] INFO: Logged in as HELIUS!
+[2023-11-09 13:33:44,360] INFO: Loaded cog: cogs.helius
+[2023-11-09 13:33:44,360] INFO: Loaded cog: cogs.helius
+[2023-11-09 13:33:51,171] INFO: Logged in as HELIUS!
+[2023-11-09 13:33:51,171] INFO: Logged in as HELIUS!
+[2023-11-09 17:34:03,189] INFO: Loaded cog: cogs.helius
+[2023-11-09 17:34:03,189] INFO: Loaded cog: cogs.helius
+[2023-11-09 17:34:07,527] INFO: Logged in as HELIUS!
+[2023-11-09 17:34:07,527] INFO: Logged in as HELIUS!
+[2023-11-09 18:04:49,184] INFO: Loaded cog: cogs.helius
+[2023-11-09 18:04:49,184] INFO: Loaded cog: cogs.helius
+[2023-11-09 18:04:53,072] INFO: Logged in as HELIUS!
+[2023-11-09 18:04:53,072] INFO: Logged in as HELIUS!
+[2023-11-09 18:42:05,233] INFO: Loaded cog: cogs.helius
+[2023-11-09 18:42:05,233] INFO: Loaded cog: cogs.helius
+[2023-11-09 18:42:10,344] INFO: Logged in as HELIUS!
+[2023-11-09 18:42:10,344] INFO: Logged in as HELIUS!
+[2023-11-09 18:43:33,096] ERROR: Error while generating response: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 2000 or fewer in length.
+[2023-11-09 18:43:33,096] ERROR: Error while generating response: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 2000 or fewer in length.
+[2023-11-09 20:07:02,943] INFO: Loaded cog: cogs.helius
+[2023-11-09 20:07:02,943] INFO: Loaded cog: cogs.helius
+[2023-11-09 20:07:06,649] INFO: Logged in as HELIUS!
+[2023-11-09 20:07:06,649] INFO: Logged in as HELIUS!
+[2023-11-09 22:29:13,761] INFO: Loaded cog: cogs.helius
+[2023-11-09 22:29:13,761] INFO: Loaded cog: cogs.helius
+[2023-11-09 22:29:17,530] INFO: Logged in as HELIUS!
+[2023-11-09 22:29:17,530] INFO: Logged in as HELIUS!
+[2023-11-09 22:34:28,403] INFO: Loaded cog: cogs.helius
+[2023-11-09 22:34:28,403] INFO: Loaded cog: cogs.helius
+[2023-11-09 22:34:32,245] INFO: Logged in as HELIUS!
+[2023-11-09 22:34:32,245] INFO: Logged in as HELIUS!
+[2023-11-10 03:26:31,256] INFO: Loaded cog: cogs.helius
+[2023-11-10 03:26:31,256] INFO: Loaded cog: cogs.helius
+[2023-11-10 03:26:38,117] INFO: Logged in as HELIUS!
+[2023-11-10 03:26:38,117] INFO: Logged in as HELIUS!
+[2023-11-10 03:55:23,813] INFO: Loaded cog: cogs.helius
+[2023-11-10 03:55:23,813] INFO: Loaded cog: cogs.helius
+[2023-11-10 03:55:27,254] INFO: Logged in as HELIUS!
+[2023-11-10 03:55:27,254] INFO: Logged in as HELIUS!
+[2023-11-10 04:03:26,252] ERROR: Error while generating response: Expecting property name enclosed in double quotes: line 2 column 3 (char 4)
+[2023-11-10 04:03:26,252] ERROR: Error while generating response: Expecting property name enclosed in double quotes: line 2 column 3 (char 4)
+[2023-11-10 04:13:38,168] ERROR: Error while generating response: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 2000 or fewer in length.
+[2023-11-10 04:13:38,168] ERROR: Error while generating response: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 2000 or fewer in length.
+[2023-11-10 04:57:09,736] INFO: Loaded cog: cogs.helius
+[2023-11-10 04:57:09,736] INFO: Loaded cog: cogs.helius
+[2023-11-10 04:57:13,421] INFO: Logged in as HELIUS!
+[2023-11-10 04:57:13,421] INFO: Logged in as HELIUS!
+[2023-11-10 06:03:38,986] INFO: Loaded cog: cogs.helius
+[2023-11-10 06:03:38,986] INFO: Loaded cog: cogs.helius
+[2023-11-10 06:03:45,560] INFO: Logged in as HELIUS!
+[2023-11-10 06:03:45,560] INFO: Logged in as HELIUS!
+[2023-11-10 09:54:17,576] INFO: Loaded cog: cogs.helius
+[2023-11-10 09:54:17,576] INFO: Loaded cog: cogs.helius
+[2023-11-10 09:54:20,900] INFO: Logged in as HELIUS!
+[2023-11-10 09:54:20,900] INFO: Logged in as HELIUS!
+[2023-11-10 10:19:56,289] INFO: Loaded cog: cogs.helius
+[2023-11-10 10:19:56,289] INFO: Loaded cog: cogs.helius
+[2023-11-10 10:20:00,947] INFO: Logged in as HELIUS!
+[2023-11-10 10:20:00,947] INFO: Logged in as HELIUS!
+[2023-11-10 10:27:22,508] INFO: Loaded cog: cogs.helius
+[2023-11-10 10:27:22,508] INFO: Loaded cog: cogs.helius
+[2023-11-10 10:27:25,780] INFO: Logged in as HELIUS!
+[2023-11-10 10:27:25,780] INFO: Logged in as HELIUS!
+[2023-11-10 10:29:35,536] INFO: Loaded cog: cogs.helius
+[2023-11-10 10:29:35,536] INFO: Loaded cog: cogs.helius
+[2023-11-10 10:29:38,944] INFO: Logged in as HELIUS!
+[2023-11-10 10:29:38,944] INFO: Logged in as HELIUS!
+[2023-11-10 13:18:26,122] INFO: Loaded cog: cogs.helius
+[2023-11-10 13:18:26,122] INFO: Loaded cog: cogs.helius
+[2023-11-10 13:18:29,836] INFO: Logged in as HELIUS!
+[2023-11-10 13:18:29,836] INFO: Logged in as HELIUS!
+[2023-11-10 13:19:00,674] INFO: Loaded cog: cogs.helius
+[2023-11-10 13:19:00,674] INFO: Loaded cog: cogs.helius
+[2023-11-10 13:19:04,105] INFO: Logged in as HELIUS!
+[2023-11-10 13:19:04,105] INFO: Logged in as HELIUS!
+[2023-11-10 17:04:50,038] INFO: Loaded cog: cogs.helius
+[2023-11-10 17:04:50,038] INFO: Loaded cog: cogs.helius
+[2023-11-10 17:04:53,342] INFO: Logged in as HELIUS!
+[2023-11-10 17:04:53,342] INFO: Logged in as HELIUS!
+[2023-11-10 17:17:09,756] INFO: Loaded cog: cogs.helius
+[2023-11-10 17:17:09,756] INFO: Loaded cog: cogs.helius
+[2023-11-10 17:17:13,640] INFO: Logged in as HELIUS!
+[2023-11-10 17:17:13,640] INFO: Logged in as HELIUS!
+[2023-11-10 17:30:07,670] INFO: Loaded cog: cogs.helius
+[2023-11-10 17:30:07,670] INFO: Loaded cog: cogs.helius
+[2023-11-10 17:30:10,959] INFO: Logged in as HELIUS!
+[2023-11-10 17:30:10,959] INFO: Logged in as HELIUS!
+[2023-11-10 17:57:38,695] INFO: Loaded cog: cogs.helius
+[2023-11-10 17:57:38,695] INFO: Loaded cog: cogs.helius
+[2023-11-10 17:57:41,891] INFO: Logged in as HELIUS!
+[2023-11-10 17:57:41,891] INFO: Logged in as HELIUS!
+[2023-11-10 18:02:35,923] INFO: Loaded cog: cogs.helius
+[2023-11-10 18:02:35,923] INFO: Loaded cog: cogs.helius
+[2023-11-10 18:02:39,370] INFO: Logged in as HELIUS!
+[2023-11-10 18:02:39,370] INFO: Logged in as HELIUS!
+[2023-11-10 18:04:51,768] INFO: Loaded cog: cogs.helius
+[2023-11-10 18:04:51,768] INFO: Loaded cog: cogs.helius
+[2023-11-10 18:04:55,012] INFO: Logged in as HELIUS!
+[2023-11-10 18:04:55,012] INFO: Logged in as HELIUS!
+[2023-11-10 21:45:36,978] INFO: Loaded cog: cogs.helius
+[2023-11-10 21:45:36,978] INFO: Loaded cog: cogs.helius
+[2023-11-10 21:45:42,855] INFO: Logged in as HELIUS!
+[2023-11-10 21:45:42,855] INFO: Logged in as HELIUS!
+[2023-11-10 23:17:02,736] INFO: Loaded cog: cogs.helius
+[2023-11-10 23:17:02,736] INFO: Loaded cog: cogs.helius
+[2023-11-10 23:17:06,469] INFO: Logged in as HELIUS!
+[2023-11-10 23:17:06,469] INFO: Logged in as HELIUS!
+[2023-11-11 00:27:05,478] INFO: Loaded cog: cogs.helius
+[2023-11-11 00:27:05,478] INFO: Loaded cog: cogs.helius
+[2023-11-11 00:27:09,371] INFO: Logged in as HELIUS!
+[2023-11-11 00:27:09,371] INFO: Logged in as HELIUS!
+[2023-11-11 03:13:49,996] INFO: Loaded cog: cogs.helius
+[2023-11-11 03:13:49,996] INFO: Loaded cog: cogs.helius
+[2023-11-11 03:13:55,655] INFO: Logged in as HELIUS!
+[2023-11-11 03:13:55,655] INFO: Logged in as HELIUS!
+[2023-11-11 03:18:24,872] INFO: Loaded cog: cogs.helius
+[2023-11-11 03:18:24,872] INFO: Loaded cog: cogs.helius
+[2023-11-11 03:18:28,249] INFO: Logged in as HELIUS!
+[2023-11-11 03:18:28,249] INFO: Logged in as HELIUS!
+[2023-11-11 03:43:44,083] INFO: Loaded cog: cogs.helius
+[2023-11-11 03:43:44,083] INFO: Loaded cog: cogs.helius
+[2023-11-11 03:43:47,395] INFO: Logged in as HELIUS!
+[2023-11-11 03:43:47,395] INFO: Logged in as HELIUS!
+[2023-11-11 04:39:53,615] INFO: Loaded cog: cogs.helius
+[2023-11-11 04:39:53,615] INFO: Loaded cog: cogs.helius
+[2023-11-11 04:39:59,627] INFO: Logged in as HELIUS!
+[2023-11-11 04:39:59,627] INFO: Logged in as HELIUS!
+[2023-11-11 04:45:47,280] INFO: Loaded cog: cogs.helius
+[2023-11-11 04:45:47,280] INFO: Loaded cog: cogs.helius
+[2023-11-11 04:45:50,579] INFO: Logged in as HELIUS!
+[2023-11-11 04:45:50,579] INFO: Logged in as HELIUS!
+[2023-11-11 04:50:46,861] INFO: Loaded cog: cogs.helius
+[2023-11-11 04:50:46,861] INFO: Loaded cog: cogs.helius
+[2023-11-11 04:50:50,121] INFO: Logged in as HELIUS!
+[2023-11-11 04:50:50,121] INFO: Logged in as HELIUS!
+[2023-11-11 06:23:13,094] INFO: Loaded cog: cogs.helius
+[2023-11-11 06:23:13,094] INFO: Loaded cog: cogs.helius
+[2023-11-11 06:23:16,902] INFO: Logged in as HELIUS!
+[2023-11-11 06:23:16,902] INFO: Logged in as HELIUS!
+[2023-11-11 08:42:20,586] INFO: Loaded cog: cogs.helius
+[2023-11-11 08:42:20,586] INFO: Loaded cog: cogs.helius
+[2023-11-11 08:47:50,796] INFO: Loaded cog: cogs.helius
+[2023-11-11 08:47:50,796] INFO: Loaded cog: cogs.helius
+[2023-11-11 08:47:54,566] INFO: Logged in as HELIUS!
+[2023-11-11 08:47:54,566] INFO: Logged in as HELIUS!
+[2023-11-11 13:33:21,435] INFO: Loaded cog: cogs.helius
+[2023-11-11 13:33:21,435] INFO: Loaded cog: cogs.helius
+[2023-11-11 13:33:25,456] INFO: Logged in as HELIUS!
+[2023-11-11 13:33:25,456] INFO: Logged in as HELIUS!
+[2023-11-11 19:13:15,727] INFO: Loaded cog: cogs.helius
+[2023-11-11 19:13:15,727] INFO: Loaded cog: cogs.helius
+[2023-11-11 19:13:19,120] INFO: Logged in as HELIUS!
+[2023-11-11 19:13:19,120] INFO: Logged in as HELIUS!
+[2023-11-11 20:40:17,102] INFO: Loaded cog: cogs.helius
+[2023-11-11 20:40:17,102] INFO: Loaded cog: cogs.helius
+[2023-11-11 20:45:46,087] INFO: Loaded cog: cogs.helius
+[2023-11-11 20:45:46,087] INFO: Loaded cog: cogs.helius
+[2023-11-11 20:45:50,294] INFO: Logged in as HELIUS!
+[2023-11-11 20:45:50,294] INFO: Logged in as HELIUS!
+[2023-11-11 20:56:05,345] INFO: Loaded cog: cogs.helius
+[2023-11-11 20:56:05,345] INFO: Loaded cog: cogs.helius
+[2023-11-11 20:56:09,794] INFO: Logged in as HELIUS!
+[2023-11-11 20:56:09,794] INFO: Logged in as HELIUS!
+[2023-11-11 21:39:38,700] INFO: Loaded cog: cogs.helius
+[2023-11-11 21:39:38,700] INFO: Loaded cog: cogs.helius
+[2023-11-11 21:39:42,154] INFO: Logged in as HELIUS!
+[2023-11-11 21:39:42,154] INFO: Logged in as HELIUS!
+[2023-11-11 22:41:26,337] INFO: Loaded cog: cogs.helius
+[2023-11-11 22:41:26,337] INFO: Loaded cog: cogs.helius
+[2023-11-11 22:41:30,299] INFO: Logged in as HELIUS!
+[2023-11-11 22:41:30,299] INFO: Logged in as HELIUS!
+[2023-11-12 04:31:32,050] INFO: Loaded cog: cogs.helius
+[2023-11-12 04:31:32,050] INFO: Loaded cog: cogs.helius
+[2023-11-12 04:31:37,039] INFO: Logged in as HELIUS!
+[2023-11-12 04:31:37,039] INFO: Logged in as HELIUS!
+[2023-11-12 09:56:39,341] INFO: Loaded cog: cogs.helius
+[2023-11-12 09:56:39,341] INFO: Loaded cog: cogs.helius
+[2023-11-12 09:56:43,356] INFO: Logged in as HELIUS!
+[2023-11-12 09:56:43,356] INFO: Logged in as HELIUS!
+[2023-11-12 11:48:21,554] INFO: Loaded cog: cogs.helius
+[2023-11-12 11:48:21,554] INFO: Loaded cog: cogs.helius
+[2023-11-12 11:48:28,097] INFO: Logged in as HELIUS!
+[2023-11-12 11:48:28,097] INFO: Logged in as HELIUS!
+[2023-11-12 11:57:21,564] INFO: Loaded cog: cogs.helius
+[2023-11-12 11:57:21,564] INFO: Loaded cog: cogs.helius
+[2023-11-12 11:57:25,103] INFO: Logged in as HELIUS!
+[2023-11-12 11:57:25,103] INFO: Logged in as HELIUS!
+[2023-11-12 13:25:59,150] INFO: Loaded cog: cogs.helius
+[2023-11-12 13:25:59,150] INFO: Loaded cog: cogs.helius
+[2023-11-12 13:26:05,270] INFO: Logged in as HELIUS!
+[2023-11-12 13:26:05,270] INFO: Logged in as HELIUS!
+[2023-11-12 13:41:41,897] INFO: Loaded cog: cogs.helius
+[2023-11-12 13:41:41,897] INFO: Loaded cog: cogs.helius
+[2023-11-12 13:41:46,182] INFO: Logged in as HELIUS!
+[2023-11-12 13:41:46,182] INFO: Logged in as HELIUS!
+[2023-11-12 15:41:31,589] INFO: Loaded cog: cogs.helius
+[2023-11-12 15:41:31,589] INFO: Loaded cog: cogs.helius
+[2023-11-12 15:41:35,211] INFO: Logged in as HELIUS!
+[2023-11-12 15:41:35,211] INFO: Logged in as HELIUS!
+[2023-11-12 16:06:36,550] INFO: Loaded cog: cogs.helius
+[2023-11-12 16:06:36,550] INFO: Loaded cog: cogs.helius
+[2023-11-12 16:06:40,544] INFO: Logged in as HELIUS!
+[2023-11-12 16:06:40,544] INFO: Logged in as HELIUS!
+[2023-11-12 17:56:44,867] INFO: Loaded cog: cogs.helius
+[2023-11-12 17:56:44,867] INFO: Loaded cog: cogs.helius
+[2023-11-12 17:56:49,426] INFO: Logged in as HELIUS!
+[2023-11-12 17:56:49,426] INFO: Logged in as HELIUS!
+[2023-11-12 21:16:23,627] INFO: Loaded cog: cogs.helius
+[2023-11-12 21:16:23,627] INFO: Loaded cog: cogs.helius
+[2023-11-12 21:16:26,894] INFO: Logged in as HELIUS!
+[2023-11-12 21:16:26,894] INFO: Logged in as HELIUS!
+[2023-11-12 22:16:40,046] INFO: Loaded cog: cogs.helius
+[2023-11-12 22:16:40,046] INFO: Loaded cog: cogs.helius
+[2023-11-12 22:16:44,306] INFO: Logged in as HELIUS!
+[2023-11-12 22:16:44,306] INFO: Logged in as HELIUS!
+[2023-11-13 02:21:54,543] INFO: Loaded cog: cogs.helius
+[2023-11-13 02:21:54,543] INFO: Loaded cog: cogs.helius
+[2023-11-13 02:21:59,299] INFO: Logged in as HELIUS!
+[2023-11-13 02:21:59,299] INFO: Logged in as HELIUS!
+[2023-11-13 04:44:50,549] INFO: Loaded cog: cogs.helius
+[2023-11-13 04:44:50,549] INFO: Loaded cog: cogs.helius
+[2023-11-13 04:44:58,202] INFO: Logged in as HELIUS!
+[2023-11-13 04:44:58,202] INFO: Logged in as HELIUS!
+[2023-11-13 05:04:03,966] INFO: Loaded cog: cogs.helius
+[2023-11-13 05:04:03,966] INFO: Loaded cog: cogs.helius
+[2023-11-13 05:04:07,747] INFO: Logged in as HELIUS!
+[2023-11-13 05:04:07,747] INFO: Logged in as HELIUS!
+[2023-11-13 05:29:30,030] INFO: Loaded cog: cogs.helius
+[2023-11-13 05:29:30,030] INFO: Loaded cog: cogs.helius
+[2023-11-13 05:29:35,337] INFO: Logged in as HELIUS!
+[2023-11-13 05:29:35,337] INFO: Logged in as HELIUS!
+[2023-11-13 08:38:56,404] INFO: Loaded cog: cogs.helius
+[2023-11-13 08:38:56,404] INFO: Loaded cog: cogs.helius
+[2023-11-13 08:38:59,594] INFO: Logged in as HELIUS!
+[2023-11-13 08:38:59,594] INFO: Logged in as HELIUS!
+[2023-11-13 09:49:02,103] INFO: Loaded cog: cogs.helius
+[2023-11-13 09:49:02,103] INFO: Loaded cog: cogs.helius
+[2023-11-13 09:49:05,833] INFO: Logged in as HELIUS!
+[2023-11-13 09:49:05,833] INFO: Logged in as HELIUS!
+[2023-11-13 10:19:26,812] INFO: Loaded cog: cogs.helius
+[2023-11-13 10:19:26,812] INFO: Loaded cog: cogs.helius
+[2023-11-13 10:19:31,037] INFO: Logged in as HELIUS!
+[2023-11-13 10:19:31,037] INFO: Logged in as HELIUS!
+[2023-11-13 18:54:41,143] INFO: Loaded cog: cogs.helius
+[2023-11-13 18:54:41,143] INFO: Loaded cog: cogs.helius
+[2023-11-13 18:54:44,619] INFO: Logged in as HELIUS!
+[2023-11-13 18:54:44,619] INFO: Logged in as HELIUS!
+[2023-11-13 19:26:02,324] INFO: Loaded cog: cogs.helius
+[2023-11-13 19:26:02,324] INFO: Loaded cog: cogs.helius
+[2023-11-13 19:26:07,433] INFO: Logged in as HELIUS!
+[2023-11-13 19:26:07,433] INFO: Logged in as HELIUS!
+[2023-11-13 20:01:53,478] INFO: Loaded cog: cogs.helius
+[2023-11-13 20:01:53,478] INFO: Loaded cog: cogs.helius
+[2023-11-13 20:01:57,643] INFO: Logged in as HELIUS!
+[2023-11-13 20:01:57,643] INFO: Logged in as HELIUS!
+[2023-11-13 22:36:52,173] INFO: Loaded cog: cogs.helius
+[2023-11-13 22:36:52,173] INFO: Loaded cog: cogs.helius
+[2023-11-13 22:36:55,637] INFO: Logged in as HELIUS!
+[2023-11-13 22:36:55,637] INFO: Logged in as HELIUS!
+[2023-11-14 01:33:57,134] INFO: Loaded cog: cogs.helius
+[2023-11-14 01:33:57,134] INFO: Loaded cog: cogs.helius
+[2023-11-14 01:34:00,732] INFO: Logged in as HELIUS!
+[2023-11-14 01:34:00,732] INFO: Logged in as HELIUS!
+[2023-11-14 08:38:57,496] INFO: Loaded cog: cogs.helius
+[2023-11-14 08:38:57,496] INFO: Loaded cog: cogs.helius
+[2023-11-14 08:39:01,438] INFO: Logged in as HELIUS!
+[2023-11-14 08:39:01,438] INFO: Logged in as HELIUS!
+[2023-11-14 12:03:55,005] INFO: Loaded cog: cogs.helius
+[2023-11-14 12:03:55,005] INFO: Loaded cog: cogs.helius
+[2023-11-14 12:03:58,494] INFO: Logged in as HELIUS!
+[2023-11-14 12:03:58,494] INFO: Logged in as HELIUS!
+[2023-11-14 16:46:09,250] INFO: Loaded cog: cogs.helius
+[2023-11-14 16:46:09,250] INFO: Loaded cog: cogs.helius
+[2023-11-14 16:46:13,256] INFO: Logged in as HELIUS!
+[2023-11-14 16:46:13,256] INFO: Logged in as HELIUS!
+[2023-11-14 19:56:24,034] INFO: Loaded cog: cogs.helius
+[2023-11-14 19:56:24,034] INFO: Loaded cog: cogs.helius
+[2023-11-14 19:56:29,223] INFO: Logged in as HELIUS!
+[2023-11-14 19:56:29,223] INFO: Logged in as HELIUS!
+[2023-11-14 20:22:13,017] INFO: Loaded cog: cogs.helius
+[2023-11-14 20:22:13,017] INFO: Loaded cog: cogs.helius
+[2023-11-14 20:22:16,993] INFO: Logged in as HELIUS!
+[2023-11-14 20:22:16,993] INFO: Logged in as HELIUS!
+[2023-11-14 23:51:33,463] ERROR: Error while generating response: 
+[2023-11-14 23:51:33,463] ERROR: Error while generating response: 
+[2023-11-14 23:51:56,221] ERROR: Error while generating response: 
+[2023-11-14 23:51:56,221] ERROR: Error while generating response: 
+[2023-11-14 23:53:04,786] INFO: Loaded cog: cogs.helius
+[2023-11-14 23:53:04,786] INFO: Loaded cog: cogs.helius
+[2023-11-14 23:53:08,218] INFO: Logged in as HELIUS!
+[2023-11-14 23:53:08,218] INFO: Logged in as HELIUS!
+[2023-11-14 23:53:37,259] ERROR: Error while generating response: 
+[2023-11-14 23:53:37,259] ERROR: Error while generating response: 
+[2023-11-14 23:53:58,599] ERROR: Error while generating response: 
+[2023-11-14 23:53:58,599] ERROR: Error while generating response: 
+[2023-11-15 01:07:23,172] INFO: Loaded cog: cogs.helius
+[2023-11-15 01:07:23,172] INFO: Loaded cog: cogs.helius
+[2023-11-15 01:07:27,268] INFO: Logged in as HELIUS!
+[2023-11-15 01:07:27,268] INFO: Logged in as HELIUS!
+[2023-11-15 01:33:11,224] INFO: Loaded cog: cogs.helius
+[2023-11-15 01:33:11,224] INFO: Loaded cog: cogs.helius
+[2023-11-15 01:33:15,767] INFO: Logged in as HELIUS!
+[2023-11-15 01:33:15,767] INFO: Logged in as HELIUS!
+[2023-11-15 01:38:48,038] INFO: Loaded cog: cogs.helius
+[2023-11-15 01:38:48,038] INFO: Loaded cog: cogs.helius
+[2023-11-15 01:38:51,900] INFO: Logged in as HELIUS!
+[2023-11-15 01:38:51,900] INFO: Logged in as HELIUS!
+[2023-11-15 01:45:02,469] INFO: Loaded cog: cogs.helius
+[2023-11-15 01:45:02,469] INFO: Loaded cog: cogs.helius
+[2023-11-15 01:45:09,317] INFO: Logged in as HELIUS!
+[2023-11-15 01:45:09,317] INFO: Logged in as HELIUS!
+[2023-11-15 06:52:30,350] INFO: Loaded cog: cogs.helius
+[2023-11-15 06:52:30,350] INFO: Loaded cog: cogs.helius
+[2023-11-15 06:52:35,907] INFO: Logged in as HELIUS!
+[2023-11-15 06:52:35,907] INFO: Logged in as HELIUS!
+[2023-11-15 17:03:12,821] INFO: Logged in as HELIUS!
+[2023-11-15 17:03:12,821] INFO: Logged in as HELIUS!
+[2023-11-15 17:08:04,270] INFO: Loaded cog: cogs.helius
+[2023-11-15 17:08:04,270] INFO: Loaded cog: cogs.helius
+[2023-11-15 17:08:07,840] INFO: Logged in as HELIUS!
+[2023-11-15 17:08:07,840] INFO: Logged in as HELIUS!
+[2023-11-15 19:50:06,964] INFO: Loaded cog: cogs.helius
+[2023-11-15 19:50:06,964] INFO: Loaded cog: cogs.helius
+[2023-11-15 19:50:10,452] INFO: Logged in as HELIUS!
+[2023-11-15 19:50:10,452] INFO: Logged in as HELIUS!
+[2023-11-15 23:37:54,913] INFO: Loaded cog: cogs.helius
+[2023-11-15 23:37:54,913] INFO: Loaded cog: cogs.helius
+[2023-11-15 23:37:58,655] INFO: Logged in as HELIUS!
+[2023-11-15 23:37:58,655] INFO: Logged in as HELIUS!
+[2023-11-15 23:43:21,025] INFO: Loaded cog: cogs.helius
+[2023-11-15 23:43:21,025] INFO: Loaded cog: cogs.helius
+[2023-11-15 23:43:24,533] INFO: Logged in as HELIUS!
+[2023-11-15 23:43:24,533] INFO: Logged in as HELIUS!
+[2023-11-16 00:40:11,900] INFO: Loaded cog: cogs.helius
+[2023-11-16 00:40:11,900] INFO: Loaded cog: cogs.helius
+[2023-11-16 00:40:15,692] INFO: Logged in as HELIUS!
+[2023-11-16 00:40:15,692] INFO: Logged in as HELIUS!
+[2023-11-16 03:55:15,952] INFO: Loaded cog: cogs.helius
+[2023-11-16 03:55:15,952] INFO: Loaded cog: cogs.helius
+[2023-11-16 03:55:19,739] INFO: Logged in as HELIUS!
+[2023-11-16 03:55:19,739] INFO: Logged in as HELIUS!
+[2023-11-16 05:15:34,656] INFO: Loaded cog: cogs.helius
+[2023-11-16 05:15:34,656] INFO: Loaded cog: cogs.helius
+[2023-11-16 05:15:39,727] INFO: Logged in as HELIUS!
+[2023-11-16 05:15:39,727] INFO: Logged in as HELIUS!
+[2023-11-16 09:18:40,420] INFO: Loaded cog: cogs.helius
+[2023-11-16 09:18:40,420] INFO: Loaded cog: cogs.helius
+[2023-11-16 09:18:43,959] INFO: Logged in as HELIUS!
+[2023-11-16 09:18:43,959] INFO: Logged in as HELIUS!
+[2023-11-16 10:45:50,369] INFO: Loaded cog: cogs.helius
+[2023-11-16 10:45:50,369] INFO: Loaded cog: cogs.helius
+[2023-11-16 10:45:53,710] INFO: Logged in as HELIUS!
+[2023-11-16 10:45:53,710] INFO: Logged in as HELIUS!
+[2023-11-16 12:12:49,311] INFO: Loaded cog: cogs.helius
+[2023-11-16 12:12:49,311] INFO: Loaded cog: cogs.helius
+[2023-11-16 12:12:54,485] INFO: Logged in as HELIUS!
+[2023-11-16 12:12:54,485] INFO: Logged in as HELIUS!
+[2023-11-16 12:18:11,155] INFO: Loaded cog: cogs.helius
+[2023-11-16 12:18:11,155] INFO: Loaded cog: cogs.helius
+[2023-11-16 12:18:15,254] INFO: Logged in as HELIUS!
+[2023-11-16 12:18:15,254] INFO: Logged in as HELIUS!
+[2023-11-16 16:28:21,739] INFO: Loaded cog: cogs.helius
+[2023-11-16 16:28:21,739] INFO: Loaded cog: cogs.helius
+[2023-11-16 16:28:26,252] INFO: Logged in as HELIUS!
+[2023-11-16 16:28:26,252] INFO: Logged in as HELIUS!
+[2023-11-16 17:39:51,811] INFO: Loaded cog: cogs.helius
+[2023-11-16 17:39:51,811] INFO: Loaded cog: cogs.helius
+[2023-11-16 17:39:55,324] INFO: Logged in as HELIUS!
+[2023-11-16 17:39:55,324] INFO: Logged in as HELIUS!
+[2023-11-16 17:40:40,434] INFO: Loaded cog: cogs.helius
+[2023-11-16 17:40:40,434] INFO: Loaded cog: cogs.helius
+[2023-11-16 17:40:43,874] INFO: Logged in as HELIUS!
+[2023-11-16 17:40:43,874] INFO: Logged in as HELIUS!
+[2023-11-16 18:09:38,730] INFO: Loaded cog: cogs.helius
+[2023-11-16 18:09:38,730] INFO: Loaded cog: cogs.helius
+[2023-11-16 18:09:41,961] INFO: Logged in as HELIUS!
+[2023-11-16 18:09:41,961] INFO: Logged in as HELIUS!
+[2023-11-16 18:36:02,943] INFO: Loaded cog: cogs.helius
+[2023-11-16 18:36:02,943] INFO: Loaded cog: cogs.helius
+[2023-11-16 18:36:06,396] INFO: Logged in as HELIUS!
+[2023-11-16 18:36:06,396] INFO: Logged in as HELIUS!
+[2023-11-16 18:36:24,509] ERROR: Error while generating response: '$.messages[0].content' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.
+[2023-11-16 18:36:24,509] ERROR: Error while generating response: '$.messages[0].content' is invalid. Please check the API reference: https://platform.openai.com/docs/api-reference.
+[2023-11-16 20:09:22,605] INFO: Loaded cog: cogs.helius
+[2023-11-16 20:09:22,605] INFO: Loaded cog: cogs.helius
+[2023-11-16 20:09:28,703] INFO: Logged in as HELIUS!
+[2023-11-16 20:09:28,703] INFO: Logged in as HELIUS!
+[2023-11-16 20:50:44,124] INFO: Loaded cog: cogs.helius
+[2023-11-16 20:50:44,124] INFO: Loaded cog: cogs.helius
+[2023-11-16 20:50:48,460] INFO: Logged in as HELIUS!
+[2023-11-16 20:50:48,460] INFO: Logged in as HELIUS!
+[2023-11-16 21:03:30,053] INFO: Loaded cog: cogs.helius
+[2023-11-16 21:03:30,053] INFO: Loaded cog: cogs.helius
+[2023-11-16 21:03:34,111] INFO: Logged in as HELIUS!
+[2023-11-16 21:03:34,111] INFO: Logged in as HELIUS!
+[2023-11-17 00:58:34,197] INFO: Loaded cog: cogs.helius
+[2023-11-17 00:58:34,197] INFO: Loaded cog: cogs.helius
+[2023-11-17 00:58:37,458] INFO: Logged in as HELIUS!
+[2023-11-17 00:58:37,458] INFO: Logged in as HELIUS!
+[2023-11-17 02:59:14,711] INFO: Loaded cog: cogs.helius
+[2023-11-17 02:59:14,711] INFO: Loaded cog: cogs.helius
+[2023-11-17 02:59:18,782] INFO: Logged in as HELIUS!
+[2023-11-17 02:59:18,782] INFO: Logged in as HELIUS!
+[2023-11-17 07:31:16,002] INFO: Loaded cog: cogs.helius
+[2023-11-17 07:31:16,002] INFO: Loaded cog: cogs.helius
+[2023-11-17 07:31:19,601] INFO: Logged in as HELIUS!
+[2023-11-17 07:31:19,601] INFO: Logged in as HELIUS!
+[2023-11-17 08:28:29,806] INFO: Loaded cog: cogs.helius
+[2023-11-17 08:28:29,806] INFO: Loaded cog: cogs.helius
+[2023-11-17 08:28:35,421] INFO: Logged in as HELIUS!
+[2023-11-17 08:28:35,421] INFO: Logged in as HELIUS!
+[2023-11-17 08:33:21,869] INFO: Loaded cog: cogs.helius
+[2023-11-17 08:33:21,869] INFO: Loaded cog: cogs.helius
+[2023-11-17 08:33:25,386] INFO: Logged in as HELIUS!
+[2023-11-17 08:33:25,386] INFO: Logged in as HELIUS!
+[2023-11-17 11:58:44,270] INFO: Loaded cog: cogs.helius
+[2023-11-17 11:58:44,270] INFO: Loaded cog: cogs.helius
+[2023-11-17 11:58:49,099] INFO: Logged in as HELIUS!
+[2023-11-17 11:58:49,099] INFO: Logged in as HELIUS!
+[2023-11-17 16:45:21,711] INFO: Loaded cog: cogs.helius
+[2023-11-17 16:45:21,711] INFO: Loaded cog: cogs.helius
+[2023-11-17 16:45:28,813] INFO: Logged in as HELIUS!
+[2023-11-17 16:45:28,813] INFO: Logged in as HELIUS!
+[2023-11-17 18:51:37,041] INFO: Loaded cog: cogs.helius
+[2023-11-17 18:51:37,041] INFO: Loaded cog: cogs.helius
+[2023-11-17 18:51:40,993] INFO: Logged in as HELIUS!
+[2023-11-17 18:51:40,993] INFO: Logged in as HELIUS!
+[2023-11-17 23:43:31,894] INFO: Loaded cog: cogs.helius
+[2023-11-17 23:43:31,894] INFO: Loaded cog: cogs.helius
+[2023-11-17 23:43:39,203] INFO: Logged in as HELIUS!
+[2023-11-17 23:43:39,203] INFO: Logged in as HELIUS!
+[2023-11-18 00:10:43,121] INFO: Loaded cog: cogs.helius
+[2023-11-18 00:10:43,121] INFO: Loaded cog: cogs.helius
+[2023-11-18 00:10:48,371] INFO: Logged in as HELIUS!
+[2023-11-18 00:10:48,371] INFO: Logged in as HELIUS!
+[2023-11-18 01:09:03,289] INFO: Loaded cog: cogs.helius
+[2023-11-18 01:09:03,289] INFO: Loaded cog: cogs.helius
+[2023-11-18 01:09:07,111] INFO: Logged in as HELIUS!
+[2023-11-18 01:09:07,111] INFO: Logged in as HELIUS!
+[2023-11-18 02:55:32,559] INFO: Loaded cog: cogs.helius
+[2023-11-18 02:55:32,559] INFO: Loaded cog: cogs.helius
+[2023-11-18 02:55:36,652] INFO: Logged in as HELIUS!
+[2023-11-18 02:55:36,652] INFO: Logged in as HELIUS!
+[2023-11-18 03:02:14,728] INFO: Loaded cog: cogs.helius
+[2023-11-18 03:02:14,728] INFO: Loaded cog: cogs.helius
+[2023-11-18 03:02:26,210] INFO: Logged in as HELIUS!
+[2023-11-18 03:02:26,210] INFO: Logged in as HELIUS!
+[2023-11-18 03:12:57,664] INFO: Loaded cog: cogs.helius
+[2023-11-18 03:12:57,664] INFO: Loaded cog: cogs.helius
+[2023-11-18 03:13:02,006] INFO: Logged in as HELIUS!
+[2023-11-18 03:13:02,006] INFO: Logged in as HELIUS!
+[2023-11-18 04:19:13,273] INFO: Loaded cog: cogs.helius
+[2023-11-18 04:19:13,273] INFO: Loaded cog: cogs.helius
+[2023-11-18 04:19:17,929] INFO: Logged in as HELIUS!
+[2023-11-18 04:19:17,929] INFO: Logged in as HELIUS!
+[2023-11-18 05:54:23,972] INFO: Loaded cog: cogs.helius
+[2023-11-18 05:54:23,972] INFO: Loaded cog: cogs.helius
+[2023-11-18 05:54:27,839] INFO: Logged in as HELIUS!
+[2023-11-18 05:54:27,839] INFO: Logged in as HELIUS!
+[2023-11-18 08:37:16,879] INFO: Loaded cog: cogs.helius
+[2023-11-18 08:37:16,879] INFO: Loaded cog: cogs.helius
+[2023-11-18 08:37:22,987] INFO: Logged in as HELIUS!
+[2023-11-18 08:37:22,987] INFO: Logged in as HELIUS!
+[2023-11-18 08:55:51,328] INFO: Loaded cog: cogs.helius
+[2023-11-18 08:55:51,328] INFO: Loaded cog: cogs.helius
+[2023-11-18 08:55:56,986] INFO: Logged in as HELIUS!
+[2023-11-18 08:55:56,986] INFO: Logged in as HELIUS!
+[2023-11-18 09:47:08,017] INFO: Loaded cog: cogs.helius
+[2023-11-18 09:47:08,017] INFO: Loaded cog: cogs.helius
+[2023-11-18 09:47:11,779] INFO: Logged in as HELIUS!
+[2023-11-18 09:47:11,779] INFO: Logged in as HELIUS!
+[2023-11-18 10:07:38,758] INFO: Loaded cog: cogs.helius
+[2023-11-18 10:07:38,758] INFO: Loaded cog: cogs.helius
+[2023-11-18 10:07:42,278] INFO: Logged in as HELIUS!
+[2023-11-18 10:07:42,278] INFO: Logged in as HELIUS!
+[2023-11-18 10:48:08,375] INFO: Loaded cog: cogs.helius
+[2023-11-18 10:48:08,375] INFO: Loaded cog: cogs.helius
+[2023-11-18 10:48:12,604] INFO: Logged in as HELIUS!
+[2023-11-18 10:48:12,604] INFO: Logged in as HELIUS!
+[2023-11-18 19:03:42,962] INFO: Loaded cog: cogs.helius
+[2023-11-18 19:03:42,962] INFO: Loaded cog: cogs.helius
+[2023-11-18 19:03:46,819] INFO: Logged in as HELIUS!
+[2023-11-18 19:03:46,819] INFO: Logged in as HELIUS!
+[2023-11-18 19:37:41,058] INFO: Loaded cog: cogs.helius
+[2023-11-18 19:37:41,058] INFO: Loaded cog: cogs.helius
+[2023-11-18 19:37:48,273] INFO: Logged in as HELIUS!
+[2023-11-18 19:37:48,273] INFO: Logged in as HELIUS!
+[2023-11-18 19:43:08,015] INFO: Loaded cog: cogs.helius
+[2023-11-18 19:43:08,015] INFO: Loaded cog: cogs.helius
+[2023-11-18 19:43:12,276] INFO: Logged in as HELIUS!
+[2023-11-18 19:43:12,276] INFO: Logged in as HELIUS!
+[2023-11-19 02:54:53,826] INFO: Loaded cog: cogs.helius
+[2023-11-19 02:54:53,826] INFO: Loaded cog: cogs.helius
+[2023-11-19 02:55:00,450] INFO: Logged in as HELIUS!
+[2023-11-19 02:55:00,450] INFO: Logged in as HELIUS!
+[2023-11-19 03:01:58,709] INFO: Loaded cog: cogs.helius
+[2023-11-19 03:01:58,709] INFO: Loaded cog: cogs.helius
+[2023-11-19 03:02:05,569] INFO: Logged in as HELIUS!
+[2023-11-19 03:02:05,569] INFO: Logged in as HELIUS!
+[2023-11-19 06:24:16,767] INFO: Loaded cog: cogs.helius
+[2023-11-19 06:24:16,767] INFO: Loaded cog: cogs.helius
+[2023-11-19 06:24:22,585] INFO: Logged in as HELIUS!
+[2023-11-19 06:24:22,585] INFO: Logged in as HELIUS!
+[2023-11-19 11:15:54,967] INFO: Loaded cog: cogs.helius
+[2023-11-19 11:15:54,967] INFO: Loaded cog: cogs.helius
+[2023-11-19 11:16:00,856] INFO: Logged in as HELIUS!
+[2023-11-19 11:16:00,856] INFO: Logged in as HELIUS!
+[2023-11-19 12:52:30,523] INFO: Loaded cog: cogs.helius
+[2023-11-19 12:52:30,523] INFO: Loaded cog: cogs.helius
+[2023-11-19 12:52:34,486] INFO: Logged in as HELIUS!
+[2023-11-19 12:52:34,486] INFO: Logged in as HELIUS!
+[2023-11-19 17:08:01,798] INFO: Loaded cog: cogs.helius
+[2023-11-19 17:08:01,798] INFO: Loaded cog: cogs.helius
+[2023-11-19 17:08:06,219] INFO: Logged in as HELIUS!
+[2023-11-19 17:08:06,219] INFO: Logged in as HELIUS!
+[2023-11-19 22:30:26,792] INFO: Loaded cog: cogs.helius
+[2023-11-19 22:30:26,792] INFO: Loaded cog: cogs.helius
+[2023-11-19 22:30:30,655] INFO: Logged in as HELIUS!
+[2023-11-19 22:30:30,655] INFO: Logged in as HELIUS!
+[2023-11-19 22:42:27,026] INFO: Loaded cog: cogs.helius
+[2023-11-19 22:42:27,026] INFO: Loaded cog: cogs.helius
+[2023-11-19 22:42:30,386] INFO: Logged in as HELIUS!
+[2023-11-19 22:42:30,386] INFO: Logged in as HELIUS!
+[2023-11-20 00:18:49,140] INFO: Loaded cog: cogs.helius
+[2023-11-20 00:18:49,140] INFO: Loaded cog: cogs.helius
+[2023-11-20 00:18:54,627] INFO: Logged in as HELIUS!
+[2023-11-20 00:18:54,627] INFO: Logged in as HELIUS!
+[2023-11-20 03:43:37,938] INFO: Loaded cog: cogs.helius
+[2023-11-20 03:43:37,938] INFO: Loaded cog: cogs.helius
+[2023-11-20 03:43:41,896] INFO: Logged in as HELIUS!
+[2023-11-20 03:43:41,896] INFO: Logged in as HELIUS!
+[2023-11-20 09:54:27,629] INFO: Loaded cog: cogs.helius
+[2023-11-20 09:54:27,629] INFO: Loaded cog: cogs.helius
+[2023-11-20 09:54:33,028] INFO: Logged in as HELIUS!
+[2023-11-20 09:54:33,028] INFO: Logged in as HELIUS!
+[2023-11-20 11:14:47,990] INFO: Loaded cog: cogs.helius
+[2023-11-20 11:14:47,990] INFO: Loaded cog: cogs.helius
+[2023-11-20 11:14:52,637] INFO: Logged in as HELIUS!
+[2023-11-20 11:14:52,637] INFO: Logged in as HELIUS!
+[2023-11-20 12:40:17,175] INFO: Loaded cog: cogs.helius
+[2023-11-20 12:40:17,175] INFO: Loaded cog: cogs.helius
+[2023-11-20 12:40:20,979] INFO: Logged in as HELIUS!
+[2023-11-20 12:40:20,979] INFO: Logged in as HELIUS!
+[2023-11-20 17:00:30,639] INFO: Loaded cog: cogs.helius
+[2023-11-20 17:00:30,639] INFO: Loaded cog: cogs.helius
+[2023-11-20 17:00:34,486] INFO: Logged in as HELIUS!
+[2023-11-20 17:00:34,486] INFO: Logged in as HELIUS!
+[2023-11-20 18:31:24,712] INFO: Loaded cog: cogs.helius
+[2023-11-20 18:31:24,712] INFO: Loaded cog: cogs.helius
+[2023-11-20 18:31:28,461] INFO: Logged in as HELIUS!
+[2023-11-20 18:31:28,461] INFO: Logged in as HELIUS!
+[2023-11-20 19:17:45,304] INFO: Loaded cog: cogs.helius
+[2023-11-20 19:17:45,304] INFO: Loaded cog: cogs.helius
+[2023-11-20 19:17:49,057] INFO: Logged in as HELIUS!
+[2023-11-20 19:17:49,057] INFO: Logged in as HELIUS!
+[2023-11-20 23:42:34,718] INFO: Loaded cog: cogs.helius
+[2023-11-20 23:42:34,718] INFO: Loaded cog: cogs.helius
+[2023-11-20 23:42:38,062] INFO: Logged in as HELIUS!
+[2023-11-20 23:42:38,062] INFO: Logged in as HELIUS!
+[2023-11-21 03:57:43,952] INFO: Loaded cog: cogs.helius
+[2023-11-21 03:57:43,952] INFO: Loaded cog: cogs.helius
+[2023-11-21 03:57:47,420] INFO: Logged in as HELIUS!
+[2023-11-21 03:57:47,420] INFO: Logged in as HELIUS!
+[2023-11-21 21:10:04,414] INFO: Loaded cog: cogs.helius
+[2023-11-21 21:10:04,414] INFO: Loaded cog: cogs.helius
+[2023-11-21 21:10:09,426] INFO: Logged in as HELIUS!
+[2023-11-21 21:10:09,426] INFO: Logged in as HELIUS!
+[2023-11-22 02:21:30,105] INFO: Loaded cog: cogs.helius
+[2023-11-22 02:21:30,105] INFO: Loaded cog: cogs.helius
+[2023-11-22 02:21:36,706] INFO: Logged in as HELIUS!
+[2023-11-22 02:21:36,706] INFO: Logged in as HELIUS!
+[2023-11-22 20:38:19,436] INFO: Loaded cog: cogs.helius
+[2023-11-22 20:38:19,436] INFO: Loaded cog: cogs.helius
+[2023-11-22 20:38:23,006] INFO: Logged in as HELIUS!
+[2023-11-22 20:38:23,006] INFO: Logged in as HELIUS!
+[2023-11-23 00:13:25,072] INFO: Loaded cog: cogs.helius
+[2023-11-23 00:13:25,072] INFO: Loaded cog: cogs.helius
+[2023-11-23 00:13:28,999] INFO: Logged in as HELIUS!
+[2023-11-23 00:13:28,999] INFO: Logged in as HELIUS!
+[2023-11-23 02:34:17,310] INFO: Loaded cog: cogs.helius
+[2023-11-23 02:34:17,310] INFO: Loaded cog: cogs.helius
+[2023-11-23 02:34:23,371] INFO: Logged in as HELIUS!
+[2023-11-23 02:34:23,371] INFO: Logged in as HELIUS!
+[2023-11-23 03:10:17,400] INFO: Loaded cog: cogs.helius
+[2023-11-23 03:10:17,400] INFO: Loaded cog: cogs.helius
+[2023-11-23 03:10:23,293] INFO: Logged in as HELIUS!
+[2023-11-23 03:10:23,293] INFO: Logged in as HELIUS!
+[2023-11-24 04:31:40,812] INFO: Loaded cog: cogs.helius
+[2023-11-24 04:31:40,812] INFO: Loaded cog: cogs.helius
+[2023-11-24 04:31:46,275] INFO: Logged in as HELIUS!
+[2023-11-24 04:31:46,275] INFO: Logged in as HELIUS!
+[2023-11-24 07:07:35,370] INFO: Loaded cog: cogs.helius
+[2023-11-24 07:07:35,370] INFO: Loaded cog: cogs.helius
+[2023-11-24 07:07:39,453] INFO: Logged in as HELIUS!
+[2023-11-24 07:07:39,453] INFO: Logged in as HELIUS!
+[2023-11-24 12:02:55,201] INFO: Loaded cog: cogs.helius
+[2023-11-24 12:02:55,201] INFO: Loaded cog: cogs.helius
+[2023-11-24 12:03:00,746] INFO: Logged in as HELIUS!
+[2023-11-24 12:03:00,746] INFO: Logged in as HELIUS!
+[2023-11-24 12:22:01,142] INFO: Loaded cog: cogs.helius
+[2023-11-24 12:22:01,142] INFO: Loaded cog: cogs.helius
+[2023-11-24 12:22:04,512] INFO: Logged in as HELIUS!
+[2023-11-24 12:22:04,512] INFO: Logged in as HELIUS!
+[2023-11-24 18:12:05,700] INFO: Loaded cog: cogs.helius
+[2023-11-24 18:12:05,700] INFO: Loaded cog: cogs.helius
+[2023-11-24 18:12:09,387] INFO: Logged in as HELIUS!
+[2023-11-24 18:12:09,387] INFO: Logged in as HELIUS!
+[2023-11-25 00:27:23,117] INFO: Loaded cog: cogs.helius
+[2023-11-25 00:27:23,117] INFO: Loaded cog: cogs.helius
+[2023-11-25 00:27:27,955] INFO: Logged in as HELIUS!
+[2023-11-25 00:27:27,955] INFO: Logged in as HELIUS!
+[2023-11-25 07:23:02,897] INFO: Loaded cog: cogs.helius
+[2023-11-25 07:23:02,897] INFO: Loaded cog: cogs.helius
+[2023-11-25 07:23:06,779] INFO: Logged in as HELIUS!
+[2023-11-25 07:23:06,779] INFO: Logged in as HELIUS!
